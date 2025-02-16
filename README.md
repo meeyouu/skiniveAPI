@@ -17,3 +17,5 @@ image-based skin disease analysis. The dashboard allows users to:
 3. **Retrieve Disease Classes:** Users can also fetch a list of available disease classes 
    via the `/get_disease_classes` endpoint to better understand the range of diagnoses.
 
+https://skinive.com/for-developers/
+
