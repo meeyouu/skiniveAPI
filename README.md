@@ -1,6 +1,9 @@
 # skiniveAPI
 This application serves as an admin dashboard for Skinive, a platform that provides image-based skin disease analysis.
 
+Introduction to Skinive:
+Skinive is a cutting-edge solution for skin disease analysis through image processing. By leveraging advanced machine learning algorithms, Skinive assists dermatologists and users in early detection and analysis of various skin conditions. The dashboard provided in this demo enables a seamless workflow for interacting with Skinive's API services.
+
 Skinive Admin Dashboard
 ------------------------
 
